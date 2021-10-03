@@ -16,8 +16,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a pursuing Masters of Computer Applications at PCCOE Pune. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+🎓 I’m pursuing Masters of Computer Applications at PCCOE Pune. </br>
+👨‍💻  I am passionate about Web Dev, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 - [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) - Designing the college website with the team of Interns.
