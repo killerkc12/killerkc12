@@ -1,5 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kiran N Chavan!](https://kiran-n-chavan-portfolio.herokuapp.com) 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=killerkc12.killerkc12)
 <a href="https://www.linkedin.com/in/kiran-n-chavan/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -28,7 +29,28 @@
   - Jewellery CRUD for Admin with sorting by category.
   - Digital Menu for Restaurant api’s for all the sections and.  Created API’s for overview of customer and food for the dayand month and years.  Dynamic QR code creation for each venues.
 
-![Kiran N Chavan's github stats](https://github-readme-stats.vercel.app/api?username=killerkc12&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=killerkc12.killerkc12)
+---
 
+### Top Tools & Languages 
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="30" height="30"/> 
+  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" height="30" />
+</p>
+<p align="center">
+ <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerkc12&hide=python&layout=compact&theme=tokyonight" alt="killerkc12's Github Languages"/>
+<p/>
+<p align="center">
+ <img width="65%" src="https://github-readme-stats.vercel.app/api?username=killerkc12&theme=tokyonight&show_icons=true&count_private=true" alt="killerkc12's Github Stats"/>
+</p>
+
+<p align="center">
+ 
+ <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=killerkc12&theme=tokyonight" alt="killerkc12's Github Streak"/> 
+ 
+</p>
+
+---
