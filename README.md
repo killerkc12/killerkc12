@@ -21,9 +21,17 @@
 👨‍💻  I am passionate about Web Dev, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) 
+- [Internshala Student Partner ISP-25 (Internshala)](https://internshala.com/) ( 2021 Oct - Present)
+  - Creating awareness about Internshala internships and getting new students to register for Internshala.
+  - Motivating students to go for online Internshala Trainings and help them to upskill themselves.
+  - Organizing at least 1 online talk/seminar to help students to find their dream internship.
+  - Participating in social media branding campaigns and learn how to communicate for a brand online.
+- [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - Present )
   - Designing the college website with the team of Interns.
-- [Full Stack Developer Intern (RedPositive (OPC) Service Pvt. Ltd)](http://ec2-52-15-34-73.us-east-2.compute.amazonaws.com/info) - 
+  - Developing website more responsive, so user can get the feel of the content.
+  - Creating the website dynamic to changing in content will be easy for admin.
+  - Techs using : PHP, HTML, CSS, Bootstrap, MySQL.
+- [Full Stack Developer Intern (RedPositive (OPC) Service Pvt. Ltd)](http://ec2-52-15-34-73.us-east-2.compute.amazonaws.com/info) ( 2020 Nov - June 2021 )
   - Technologies worked on NodeJS, ReactJS, Firebase, DynamoDB, EC2, S3.
   - Worked on bloodcamp and timeslots for the bloodbank Restful Admin.  FAQ CRUD and and arrangement on the Adminside.  Desktop, Tablet and Mobile view of wholw application.
   - Jewellery CRUD for Admin with sorting by category.
