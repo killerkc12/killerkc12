@@ -21,11 +21,6 @@
 👨‍💻  I am passionate about Web Dev, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Internshala Student Partner ISP-25 (Internshala)](https://internshala.com/) ( 2021 Oct - Present)
-  - Creating awareness about Internshala internships and getting new students to register for Internshala.
-  - Motivating students to go for online Internshala Trainings and help them to upskill themselves.
-  - Organizing at least 1 online talk/seminar to help students to find their dream internship.
-  - Participating in social media branding campaigns and learn how to communicate for a brand online.
 - [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - Present )
   - Designing the college website with the team of Interns.
   - Developing website more responsive, so user can get the feel of the content.
