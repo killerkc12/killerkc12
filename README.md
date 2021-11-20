@@ -35,7 +35,7 @@
 </p>
 
 ### My Experiences 🙌
-- [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - Present )
+- [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - 2021 Nov )
   - Designing the college website with the team of Interns.
   - Developing website more responsive, so user can get the feel of the content.
   - Creating the website dynamic to changing in content will be easy for admin.
