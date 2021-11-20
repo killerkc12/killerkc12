@@ -1,24 +1,38 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kiran N Chavan!](https://kiran-n-chavan-portfolio.herokuapp.com) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kiran N Chavan!](https://killerkc12.github.io) 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=killerkc12.killerkc12)
+
 <a href="https://www.linkedin.com/in/kiran-n-chavan/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/kiran_n_chavan">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <a href="mailto:kiranchavankc12@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
 <a href="https://www.instagram.com/kiran_n_chavan/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 
 <br />
 
 ### About Me 🚀
 🎓 I’m pursuing Masters of Computer Applications at PCCOE Pune. </br>
-👨‍💻  I am passionate about Web Dev, DevOps & I enjoy learning new things. </br>
+👨‍💻 I've strong interest in Open-Source🔥, and passionate about Web Dev💯, DevOps🚀 & I enjoy learning new things. </br>
+
+## 🚀 Technologies 
+
+### Languages⚡
+<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=5382a1" />   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE" /> <img src="https://img.shields.io/badge/React-194d33?style=for-the-badge&logo=react&logoColor=white" />
+
+### Database💙 
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-D24939?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-2CA5E0?style=for-the-badge&logo=firebae&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-326ce5.svg?&style=for-the-badge&logo=dynamodb&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=killerkc12&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killerkc12&theme=highcontrast" />
+</p>
 
 ### My Experiences 🙌
 - [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - Present )
@@ -31,29 +45,3 @@
   - Worked on bloodcamp and timeslots for the bloodbank Restful Admin.  FAQ CRUD and and arrangement on the Adminside.  Desktop, Tablet and Mobile view of wholw application.
   - Jewellery CRUD for Admin with sorting by category.
   - Digital Menu for Restaurant api’s for all the sections and.  Created API’s for overview of customer and food for the dayand month and years.  Dynamic QR code creation for each venues.
-
----
-
-### Top Tools & Languages 
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="30" height="30"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="30" height="30"/> 
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="Git" height="30" />
-</p>
-<p align="center">
- <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerkc12&hide=python&layout=compact&theme=tokyonight" alt="killerkc12's Github Languages"/>
-<p/>
-<p align="center">
- <img width="65%" src="https://github-readme-stats.vercel.app/api?username=killerkc12&theme=tokyonight&show_icons=true&count_private=true" alt="killerkc12's Github Stats"/>
-</p>
-
-<p align="center">
- 
- <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=killerkc12&theme=tokyonight" alt="killerkc12's Github Streak"/> 
- 
-</p>
-
----
