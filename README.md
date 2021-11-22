@@ -26,7 +26,10 @@
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=5382a1" />   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE" /> <img src="https://img.shields.io/badge/React-194d33?style=for-the-badge&logo=react&logoColor=white" />
 
 ### Database❄ 
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-D24939?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-2CA5E0?style=for-the-badge&logo=firebae&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-326ce5.svg?&style=for-the-badge&logo=dynamodb&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-D24939?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-2CA5E0?style=for-the-badge&logo=firebae&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-326ce5.svg?&style=for-the-badge&logo=dynamodb&logoColor=white"> 
+
+### Tools⚒️
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
 ## 📈 Stats
 <p align="center">
