@@ -39,12 +39,11 @@
 
 ### My Experiences 🙌
 - [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - 2021 Nov )
-  - Designing the college website with the team of Interns.
-  - Developing website more responsive, so user can get the feel of the content.
-  - Creating the website dynamic to changing in content will be easy for admin.
-  - Techs using : PHP, HTML, CSS, Bootstrap, MySQL.
+  - Tech used are: PHP, HTML, CSS, Bootstrap, MySQL.
+  - Build responsive and Dynamic website for the MCA departement.
+  - Implemented PHP Curl API for fetching the faculty data from database to the webpage
 - [Full Stack Developer Intern (RedPositive (OPC) Service Pvt. Ltd)](http://ec2-52-15-34-73.us-east-2.compute.amazonaws.com/info) ( 2020 Nov - June 2021 )
   - Technologies worked on NodeJS, ReactJS, Firebase, DynamoDB, EC2, S3.
-  - Worked on bloodcamp and timeslots for the bloodbank Restful Admin.  FAQ CRUD and and arrangement on the Adminside.  Desktop, Tablet and Mobile view of wholw application.
-  - Jewellery CRUD for Admin with sorting by category.
-  - Digital Menu for Restaurant api’s for all the sections and.  Created API’s for overview of customer and food for the dayand month and years.  Dynamic QR code creation for each venues.
+  - Implemented FAQ section, which can be sort top 3 FAQs accordingly to priority question. Made CRUD and Searching and Sorting for Blood Donor, Blood Camp, FAQ. And Build whole application Responsive.
+  - Build Jewellery e-commerce website, implemented searching and sorting product very efficiently.
+  - Digital Menu for Restaurant APIs for all the sections and. Created APIs for an overview of customers and food for the day and month and years. Dynamic QR code creation for each venue.
