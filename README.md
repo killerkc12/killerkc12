@@ -23,13 +23,32 @@
 ## 🚀 Technologies 
 
 ### Languages⚡
-<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=5382a1" />   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=4B8BBE" /> <img src="https://img.shields.io/badge/React-194d33?style=for-the-badge&logo=react&logoColor=white" />
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ### Database❄ 
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-D24939?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-2CA5E0?style=for-the-badge&logo=firebae&logoColor=white"> <img src="https://img.shields.io/badge/DynamoDB-326ce5.svg?&style=for-the-badge&logo=dynamodb&logoColor=white"> 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![MySQL](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-DynamoDB-black?style=flat-square&logo=dynamodb)
 
 ### Tools⚒️
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 ## 📈 Stats
 <p align="center">
@@ -37,13 +56,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killerkc12&theme=highcontrast" />
 </p>
 
-### My Experiences 🙌
-- [Web Developmet Intern (Pimpri Chinchwad College of Engineering Pune)](https://mca.pccoepune.com/) ( 2021 Sep  - 2021 Nov )
-  - Tech used are: PHP, HTML, CSS, Bootstrap, MySQL.
-  - Build responsive and Dynamic website for the MCA departement.
-  - Implemented PHP Curl API for fetching the faculty data from database to the webpage
-- [Full Stack Developer Intern (RedPositive (OPC) Service Pvt. Ltd)](http://ec2-52-15-34-73.us-east-2.compute.amazonaws.com/info) ( 2020 Nov - June 2021 )
-  - Technologies worked on NodeJS, ReactJS, Firebase, DynamoDB, EC2, S3.
-  - Implemented FAQ section, which can be sort top 3 FAQs accordingly to priority question. Made CRUD and Searching and Sorting for Blood Donor, Blood Camp, FAQ. And Build whole application Responsive.
-  - Build Jewellery e-commerce website, implemented searching and sorting product very efficiently.
-  - Digital Menu for Restaurant APIs for all the sections and. Created APIs for an overview of customers and food for the day and month and years. Dynamic QR code creation for each venue.
+[![Kiran N Chavan's github activity graph](https://activity-graph.herokuapp.com/graph?username=killerkc12&theme=xcode)](https://git.io/killerkc12)
