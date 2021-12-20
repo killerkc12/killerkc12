@@ -1,16 +1,16 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kiran N Chavan!](https://killerkc12.github.io) 
 
 
-<a href="https://www.linkedin.com/in/kiran-n-chavan/">
+<a href="https://www.linkedin.com/in/killerkc12">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/kiran_n_chavan">
+<a href="https://twitter.com/killerkc12_">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <a href="mailto:kiranchavankc12@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://www.instagram.com/kiran_n_chavan/">
+<a href="https://www.instagram.com/killerkc12">
   <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 
