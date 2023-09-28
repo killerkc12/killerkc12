@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kiran N Chavan!](https://killerkc12.github.io) 
+## Hey, I'm [Kiran N Chavan!](https://killerkc12.github.io) 
 
 
 <a href="https://www.linkedin.com/in/killerkc12">
@@ -53,7 +53,4 @@
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=killerkc12&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=killerkc12&theme=highcontrast" />
 </p>
-
-[![Kiran N Chavan's github activity graph](https://activity-graph.herokuapp.com/graph?username=killerkc12&theme=xcode)](https://git.io/killerkc12)
